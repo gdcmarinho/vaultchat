@@ -1,5 +1,5 @@
 # VaultChat
-
+!!! DO NOT USE THIS PROJECT FOR PRODUCTION ENV !!!
 ### License
 VaultChat is open source and uses GPLv3. See the LICENSE file for more info.
 
